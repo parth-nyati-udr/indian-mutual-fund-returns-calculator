@@ -1,4 +1,4 @@
-# mf-analytics
+# Indian Mutual Fund Returns Calculator
 
 Accurate return analytics for Indian mutual funds using free AMFI NAV data from [mfapi.in](https://www.mfapi.in): **XIRR** for irregular cashflows, **SIP simulation** with holiday handling, and **rolling-return distributions** that show how consistently a fund delivered, not just its best trailing number.
 
